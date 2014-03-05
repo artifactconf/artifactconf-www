@@ -2,4 +2,4 @@
 # http://code.google.com/web/controlcrawlindex/
 
 User-agent: *
-sitemap: http://artifact.sparkboxqa.com/sitemap.xml
+sitemap: http://artifactconf.com/sitemap.xml
