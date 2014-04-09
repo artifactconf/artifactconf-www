@@ -4,7 +4,7 @@
 		<style>
 			.spiral {
 				fill: none;
-				stroke: #D04194;
+				stroke: #ba4699;
 				stroke-width: 0.325;
 				stroke-miterlimit: 10;
 			}
